@@ -45,19 +45,20 @@ I am a **Post-Graduate in EEE** transitioning into the software world. I leverag
 
 ![Stats](https://img.shields.io/badge/GITHUB%20ACTIVITY-%238a2be2?style=for-the-badge)
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rubel2323&show_icons=true&theme=radical&hide_border=true" alt="Rubel's GitHub stats" />
-</p>
+## GitHub Activity
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubel2323&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
+### Contribution Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=rubel2323)
 
----
+### GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubel2323&show_icons=true&include_all_commits=true&count_private=true)
 
-![Visitor Counter](https://img.shields.io/badge/PROFILE%20VIEWS-%238a2be2?style=for-the-badge)
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubel2323&layout=compact)
 
-![Visitors](https://komarev.com/ghpvc/?username=rubel2323&color=8a2be2&style=flat-square&label=PROFILE+VIEWS)
+### Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rubel2323)
+
 
 ---
 
