@@ -60,6 +60,19 @@ I am a **Post-Graduate in EEE** transitioning into the software world. I leverag
 
 
 
+## Technical Summary
+
+- GitHub Username: rubel2323
+- Active contributor with regular commits
+- Experience with frontend and backend development
+- Languages used across repositories:
+  - JavaScript
+  - HTML
+  - CSS
+  - Python
+  - Ruby (learning)
+- Familiar with Git, GitHub workflow, and automation
+
 
 ### Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rubel2323)
