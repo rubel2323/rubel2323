@@ -45,16 +45,18 @@ I am a **Post-Graduate in EEE** transitioning into the software world. I leverag
 
 ![Stats](https://img.shields.io/badge/GITHUB%20ACTIVITY-%238a2be2?style=for-the-badge)
 
-## GitHub Activity
+
 
 ### Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=rubel2323)
 
 ### GitHub Statistics
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rubel2323)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubel2323)
+
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rubel2323)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rubel2323)
+
 
 
 ### Contribution Graph
