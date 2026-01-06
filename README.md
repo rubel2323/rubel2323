@@ -60,7 +60,7 @@ I am a **Post-Graduate in EEE** transitioning into the software world. I leverag
 
 
 
-## Technical Summary
+![Technical Summary](https://img.shields.io/badge/TECHNICAL%20SUMMARY-%238a2be2?style=for-the-badge)
 
 - GitHub Username: rubel2323
 - Active contributor with regular commits
