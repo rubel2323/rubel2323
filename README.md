@@ -51,11 +51,13 @@ I am a **Post-Graduate in EEE** transitioning into the software world. I leverag
 ![GitHub Streak](https://streak-stats.demolab.com?user=rubel2323)
 
 ### GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubel2323)
+![Stats](https://github-readme-stats.vercel.app/api?username=rubel2323&theme=transparent)
+
 
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rubel2323)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rubel2323&hide_border=true)
+
 
 
 
