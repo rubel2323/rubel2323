@@ -1,35 +1,51 @@
-# Hi, I'm Ahsan Habib Rubel
+# Hi ,I'm Ahsan Habib Rubel
 
-## Full Stack Developer | AI & Machine Learning Enthusiast | EEE Post-Graduate
-
----
-
-I am a **Post-Graduate in Electrical and Electronic Engineering (EEE)** transitioning into the software world. I leverage my analytical engineering background to build robust **Full Stack applications** while exploring **Artificial Intelligence and Machine Learning** to solve complex problems.
+![Header](https://capsule-render.vercel.app/api?type=rect&color=8a2be2&height=100&section=header&text=Full%20Stack%20Developer%20|%20AI%20Enthusiast&fontSize=30&animation=fadeIn)
 
 ---
 
-### 👤 About Me:
-
-* 🎓 **Education:** Post-Graduate in Electrical and Electronic Engineering (EEE)
-* 🔭 **Current Focus:** Mastering Full Stack Web Development (Python/React)
-* 🌱 **Learning:** Machine Learning algorithms and Deep Learning with Python
-* 👯 **Collaboration:** Open to Python, Django, or AI/ML-based projects
-* 💬 **Ask me about:** Python, Web Tech, or Engineering logic
-* ⚡ **Fun fact:** I treat coding logic with the same precision I used for circuit design!
+### 🎓 Engineering Background
+I am a **Post-Graduate in Electrical and Electronic Engineering (EEE)**. My engineering foundation allows me to approach **Full Stack Development** and **AI/ML** with deep analytical logic and precision.
 
 ---
 
-### 🛠 Tech Stack:
+![About Me](https://capsule-render.vercel.app/api?type=soft&color=8a2be2&height=120&section=header&text=👤%20About%20Me&fontSize=40)
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | Python (Advanced), JavaScript (ES6+), HTML5, CSS3 |
-| **Web Tech** | React.js, Node.js, Django, Express |
-| **Data & AI** | NumPy, Pandas, Scikit-learn, MATLAB |
-| **Tools** | Git, GitHub, Docker, REST APIs |
+* 🔭 **Current Focus:** Building scalable Full Stack Web Applications using Python & React.
+* 🌱 **Learning:** Deep Learning and advanced AI integration.
+* 👯 **Collaboration:** Open to working on Python-based AI or Django projects.
+* 💬 **Ask me about:** Python, Web Tech, or the intersection of EEE and Software.
+* ⚡ **Fun fact:** I debug code with the same mindset I use for troubleshooting complex circuits!
 
 ---
 
-### 📊 GitHub Activity:
-![Rubel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubel2323&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubel2323&layout=compact&theme=dark)
+![Projects](https://capsule-render.vercel.app/api?type=soft&color=8a2be2&height=80&section=header&text=🚀%20Featured%20Projects&fontSize=25)
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Project One** | A brief description of what this app does and the problem it solves. | React, Django | [View Repo](#) |
+| **AI Model** | A machine learning project analyzing engineering data. | Python, NumPy | [View Repo](#) |
+| **E-Commerce** | A full-stack web application with secure payment integration. | Node.js, MongoDB | [View Repo](#) |
+
+---
+
+![Skills](https://capsule-render.vercel.app/api?type=soft&color=8a2be2&height=80&section=header&text=🛠%20Tech%20Stack&fontSize=25)
+
+**Languages & Frameworks:**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+
+![Stats](https://capsule-render.vercel.app/api?type=soft&color=8a2be2&height=80&section=header&text=📊%20GitHub%20Stats&fontSize=25)
+
+![Rubel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubel2323&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubel2323&layout=compact&theme=radical)
+
+---
+
+### 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
