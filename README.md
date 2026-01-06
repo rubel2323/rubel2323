@@ -41,10 +41,23 @@ I am a **Post-Graduate in EEE** transitioning into the software world. I leverag
 
 ---
 
+---
+
 ![Stats](https://img.shields.io/badge/GITHUB%20ACTIVITY-%238a2be2?style=for-the-badge)
 
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=rubel2323&show_icons=true&theme=radical&hide_border=true" alt="Rubel's GitHub stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubel2323&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubel2323&theme=radical)
+
+![Visitor Counter](https://img.shields.io/badge/PROFILE%20VIEWS-%238a2be2?style=for-the-badge)
+
+![Visitors](https://komarev.com/ghpvc/?username=rubel2323&color=8a2be2&style=flat-square&label=PROFILE+VIEWS)
 
 ---
 
