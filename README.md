@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ahsan Habib Rubel
+# Hi, I'm Ahsan Habib Rubel
 
 ## Full Stack Developer | AI & Machine Learning Enthusiast | EEE Post-Graduate
 
