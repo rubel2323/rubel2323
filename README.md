@@ -44,11 +44,7 @@ I am a **Post-Graduate in EEE** transitioning into the software world. I leverag
 ![Stats](https://img.shields.io/badge/GITHUB%20ACTIVITY-%238a2be2?style=for-the-badge)
 
 ---
-
-
-![Rubel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubel2323&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubel2323&layout=compact&theme=radical&cache_seconds=1800)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubel2323&theme=radical)
 
 ---
 
