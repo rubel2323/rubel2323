@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ahsan Habib Rubel
+# Ahsan Habib Rubel
 
 ### 🎓 Post-Graduate in Electrical and Electronic Engineering (EEE)
 **Full Stack Developer | AI & Machine Learning Enthusiast | Pythonista**
